@@ -36,7 +36,6 @@ Pre-requisites include the types of variables you should have in order to conduc
 
 ## Mock conclusions
 
-
 Mock conclusions represent the most frequent structure for conclusions reached at the end of a typical analysis with that method. Although they are similar to a traditional research hypothesis, Alvin Feinstein believed that stating formally stating a conclusion would force researchers to think through exacly they might want to say at the end of their research project. Another way to think about mock conclusions is to assume that these will be the three or four main bullet points in a final slide called Conclusions when you are presenting your article at the top conference of your medical society. Of course, whether your mock conclusions match the final results is not relevant, the key concept is that you think through what you would ideally like to be able to say. 
 
 ## Methods
@@ -47,16 +46,19 @@ We list reporting guidelines to enhance the reproducility and overall quality of
 
 We provide a list of open source software packages in, most commonly, R, Python, or Julia languages. Many of these packages will have tutorials and code that is ready to run. 
 
+In addition, we provide examples of tables and plots associated with the method, along with a brief description of how to interpret them. These examples will come from open access articles whenever available. If not available, we provide a mock example mimicking the structure of a table or plot from an actual article.
+
 ## Suggested companion methods
 
-This is a list of other methods that might be used in conjunction with the method being described. The rationale for this parallel use is explained.
-<!-- 
-@todo
+This is a list of other methods that might be used in conjunction with the method being described. The rationale for this parallel use is explained, focusing on what is common between the two and the essence of why you might want to link them.
+
 
 ## Learning materials  
-get list from other vimwiki
-extract the essence of each method with hooks to other methods - watercolor for blending
 
+In this section we provide learning materials directed at data scientists, researchers, and patients. Materials for data scientists will often have a description of the theory and some code. The mathematical underpinnings of the method is described from multiple perspectives whenever possible, including a narrative, the concept, graphical overviews, the algebra, and the numeric explanations.  In contrast, materials for researchers will focus on what is required for the method to be used, what they should expect to get out of the method, and the basic mechanics behind the algorithm. Patient materials will use lay language focused on how that method might be interpreted in the context of a given disease.
+
+<!-- 
+@todo 
 # References
 --> 
 
