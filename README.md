@@ -94,5 +94,5 @@ In this section we provide learning materials directed at data scientists, resea
 
 # License
 
-The minor modifications from previous software are released under an [MIT open source license](https://opensource.org/licenses/MIT), while the content of the researchdesigner wiki <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+The minor modifications from previous software are released under an [MIT open source license](https://opensource.org/licenses/MIT), while the content of the researchdesigner wiki <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
