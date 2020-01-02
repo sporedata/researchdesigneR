@@ -29,27 +29,33 @@ We have tested the software in [Manjaro](https://manjaro.org/), [Ubuntu](https:/
 
 Each data science method is described following the following structure: pre-requisites, mock conclusions, Methods, Results, suggested additional methods, and learning materials<!-- @todo add links -->. Of importance, each method is always described in the context of patient-centered use cases. For example, we know that a regression machine learning method is used to predict a numeric variable. One of its patient-centered use cases is then to predict a clinical score that is logistically challenging to obtain in the clinic, based on features (predicting variables) available from the electronic health record. An example would be to predict a frailty score from elderly patients attending a geriatric clinic. In this scenario, where patients don't have to undergo the full frailty evaluation as it is time consuming and slows down the clinic pace. Use cases are important since they are not "obvious" from the method, but are instead clever applications to patient-centered issues.
 
+## Pre-requisites
 
+Pre-requisites include the types of variables you should have in order to conduct the analysis, be they already collected or about to be prospectively collected. They also include logistic requirements, for example the availability of electronic health record, images, a certain type of biomarker, or even access to a patient population where the data could be collected. Last, other requirements are less tangible, such as the presence of equipoise to conduct a randomized trial.
+
+
+## Mock conclusions
+
+
+Mock conclusions represent the most frequent structure for conclusions reached at the end of a typical analysis with that method. Although they are similar to a traditional research hypothesis, Alvin Feinstein believed that stating formally stating a conclusion would force researchers to think through exacly they might want to say at the end of their research project. Another way to think about mock conclusions is to assume that these will be the three or four main bullet points in a final slide called Conclusions when you are presenting your article at the top conference of your medical society. Of course, whether your mock conclusions match the final results is not relevant, the key concept is that you think through what you would ideally like to be able to say. 
+
+## Methods
+
+We list reporting guidelines to enhance the reproducility and overall quality of your article. Most of them are included in the [Equator Network](https://www.equator-network.org/), and many have been developed following at standard methodology.<!-- @todo include reference for methodology -->. In cases where a specific guideline does not exist, we might provide a collection of similar guidelines or a group of articles that might provide guidance.
+
+## Results 
+
+We provide a list of open source software packages in, most commonly, R, Python, or Julia languages. Many of these packages will have tutorials and code that is ready to run. 
+
+## Suggested companion methods
+
+This is a list of other methods that might be used in conjunction with the method being described. The rationale for this parallel use is explained.
 <!-- 
 @todo
-## Pre-requisites
-variables already collected or to be collected
-logistic - availability of electronic health record, or images, or a certain type of biomarker, or even access to a patient population where the data could be collected. other requirements are less tangible, such as the presence of equipoise to conduct a randomized trial
-## Mock conclusions
-alvin feinstein, 3 or 4, podium presentation at an important specialty conference, last slide
-## Methods
-equator network, reporting guidelines, sometimes enhanced if the guideline is felt to be missing important components
-## Results
-reporting guielines, open source packages 
-
-
-## Suggested additional methods
-in the context of a grant proposal. in other words, the other aims
-future bpmn??
-
 
 ## Learning materials  
 get list from other vimwiki
+extract the essence of each method with hooks to other methods - watercolor for blending
 
 # References
 --> 
