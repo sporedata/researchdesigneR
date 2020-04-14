@@ -1,5 +1,4 @@
-# researchdesigneR
-Decision support for the design of patient-centered research
+## researchdesigneR - blending multiple designs for novel and meaningful patient-centered research
 
 researchdesigneR provides decision support for data scientists having to blend one or more data science designs and analytic strategies for patient-centered research projects. 
 
