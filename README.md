@@ -4,29 +4,26 @@ researchdesigneR is a collection of structured documents to guide those conducti
 
 <!--  
 https://github.com/othneildrew/Best-README-Template
+https://github.com/matiassingers/awesome-readme
 
-logo, toc
-
-description: problem - large number of approaches, little time to learn them; a lot of literature, but what we need is a decision support system
+* logo - @bruna add
+* toc
+* description: problem - large number of approaches in the analysis of patient data, little time to learn them; a lot of literature, but what we need is a decision support system
 template-based, searchable, SEO, potentially connected to solr
- 
-use cases:
-- design: meetings, plan for projects, grant proposals, journal clubs
-- api - solr
-
-template: methods, data, plots
-
-motion graphic - gif searching
-
-contributing - wiki, clone
-
-todo 
-solr
-api
-rstudio integration
-
-licensing
-
+* use cases:
+   - design: meetings, plan for projects, grant proposals, journal clubs
+      * start question
+      * start data
+      * start methods
+   - api - solr, rstudio integration; figures concept map
+* template: methods, data, plots
+* motion graphic - how to search - gif web page, ag repo (within section) with code examples
+* todo 
+* contributing - clone send, pull request; wiki
+* credits
+* licensing
+* FAQ
+* support
 --> 
 
 
