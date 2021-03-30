@@ -1,13 +1,19 @@
 ## researchdesigneR - selecting data science methods for analysis centered on patients
 
-researchdesigneR is a collection of structured documents to guide those conducting analyses involving patient-centered data. Rather than a book, the researchdesigneR's goal is to serve as a decision support system, where you can get information on (1) the clinical situations where a given method might be useful, (2) what types of variables are required to run that method, (3) how the method works, and (4) how to interpret the results coming from the method.
+<!--  * logo - @todo insert logo from Bruna --> 
+
+
+researchdesigneR is a collection of structured documents to guide clinicians designing clinical research studies as well as data scientists conducting the respective analyses. Rather than a book, the researchdesigneR's goal is to serve as a decision support system, where you can get information on (1) the clinical situations where a given method might be useful, (2) what types of variables are required to run that method, (3) how the method works, and (4) how to interpret the results coming from the method.
+
+
+<!--  
+@todo insert toc
+--> 
 
 <!--  
 https://github.com/othneildrew/Best-README-Template
 https://github.com/matiassingers/awesome-readme
 
-* logo - @bruna add
-* toc
 * description: problem - large number of approaches in the analysis of patient data, little time to learn them; a lot of literature, but what we need is a decision support system
 template-based, searchable, SEO, potentially connected to solr
 * use cases:
@@ -28,3 +34,5 @@ template-based, searchable, SEO, potentially connected to solr
 
 
 
+<!--  
+--> 
