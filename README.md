@@ -2,7 +2,7 @@
 
 <!--  * logo - insert logo from Bruna --> 
 
-![Imgur](https://imgur.com/a/TmDyWIK.png)
+![Imgur](https://i.imgur.com/MEuZlrV.png)
 
 researchdesigneR is a collection of structured documents to guide clinicians designing clinical research studies as well as data scientists conducting the respective analyses. Rather than a book, the researchdesigneR's goal is to serve as a decision support system, where you can get information on (1) the clinical situations where a given method might be useful, (2) what types of variables are required to run that method, (3) how the method works, and (4) how to interpret the results coming from the method.
 
