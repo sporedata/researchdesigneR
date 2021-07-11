@@ -13,7 +13,8 @@ We use standard templates to describe both data scientists' methods as well as d
 
 
 # How to use
-<!-- @todo add an animated gif that demonstrates how to search rdR -->
+
+![](howtouse.gif)
 
 
 # Features
